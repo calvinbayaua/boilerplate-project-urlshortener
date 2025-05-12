@@ -49,7 +49,7 @@ cd boilerplate-project-urlshortener
   ```sh
   DB_URL:your_mongodb_connection_string
   ```
-5. **Start the server**
+4. **Start the server**
   ```sh
   npm run start
   ```
